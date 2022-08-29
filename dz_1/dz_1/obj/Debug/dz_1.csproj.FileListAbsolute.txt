@@ -1,0 +1,8 @@
+C:\c#\dz_1\dz_1\bin\Debug\dz_1.exe.config
+C:\c#\dz_1\dz_1\bin\Debug\dz_1.exe
+C:\c#\dz_1\dz_1\bin\Debug\dz_1.pdb
+C:\c#\dz_1\dz_1\obj\Debug\dz_1.csproj.AssemblyReference.cache
+C:\c#\dz_1\dz_1\obj\Debug\dz_1.csproj.SuggestedBindingRedirects.cache
+C:\c#\dz_1\dz_1\obj\Debug\dz_1.csproj.CoreCompileInputs.cache
+C:\c#\dz_1\dz_1\obj\Debug\dz_1.exe
+C:\c#\dz_1\dz_1\obj\Debug\dz_1.pdb
