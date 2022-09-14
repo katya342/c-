@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9780041b-4831-4852-af51-68629281bf39": {
+      "ProjectGuid": "9780041b-4831-4852-af51-68629281bf39",
+      "DisplayName": "KBB.Online",
+      "ColorIndex": 0
+    },
+    "82deb25c-9342-41d3-a22f-773069a61b42": {
+      "ProjectGuid": "82deb25c-9342-41d3-a22f-773069a61b42",
+      "DisplayName": "KBB.online.BLL",
+      "ColorIndex": 1
+    },
+    "991d74b7-ef1e-4a06-a608-5af24ea98ff2": {
+      "ProjectGuid": "991d74b7-ef1e-4a06-a608-5af24ea98ff2",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

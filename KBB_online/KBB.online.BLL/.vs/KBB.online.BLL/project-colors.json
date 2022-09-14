@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "82deb25c-9342-41d3-a22f-773069a61b42": {
+      "ProjectGuid": "82deb25c-9342-41d3-a22f-773069a61b42",
+      "DisplayName": "KBB.online.BLL",
+      "ColorIndex": 0
+    },
+    "9780041b-4831-4852-af51-68629281bf39": {
+      "ProjectGuid": "9780041b-4831-4852-af51-68629281bf39",
+      "DisplayName": "KBB.Online",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
