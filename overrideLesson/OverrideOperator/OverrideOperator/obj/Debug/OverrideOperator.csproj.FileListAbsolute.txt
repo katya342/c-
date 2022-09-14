@@ -1,0 +1,8 @@
+C:\c#\OverrideOperator\OverrideOperator\bin\Debug\OverrideOperator.exe.config
+C:\c#\OverrideOperator\OverrideOperator\bin\Debug\OverrideOperator.exe
+C:\c#\OverrideOperator\OverrideOperator\bin\Debug\OverrideOperator.pdb
+C:\c#\OverrideOperator\OverrideOperator\obj\Debug\OverrideOperator.csproj.AssemblyReference.cache
+C:\c#\OverrideOperator\OverrideOperator\obj\Debug\OverrideOperator.csproj.SuggestedBindingRedirects.cache
+C:\c#\OverrideOperator\OverrideOperator\obj\Debug\OverrideOperator.csproj.CoreCompileInputs.cache
+C:\c#\OverrideOperator\OverrideOperator\obj\Debug\OverrideOperator.exe
+C:\c#\OverrideOperator\OverrideOperator\obj\Debug\OverrideOperator.pdb
