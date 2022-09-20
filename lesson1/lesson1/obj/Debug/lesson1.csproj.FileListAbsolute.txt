@@ -1,0 +1,8 @@
+C:\progi\c#\lesson1\lesson1\obj\Debug\lesson1.csproj.AssemblyReference.cache
+C:\progi\c#\lesson1\lesson1\obj\Debug\lesson1.csproj.SuggestedBindingRedirects.cache
+C:\progi\c#\lesson1\lesson1\obj\Debug\lesson1.csproj.CoreCompileInputs.cache
+C:\progi\c#\lesson1\lesson1\bin\Debug\lesson1.exe.config
+C:\progi\c#\lesson1\lesson1\bin\Debug\lesson1.exe
+C:\progi\c#\lesson1\lesson1\bin\Debug\lesson1.pdb
+C:\progi\c#\lesson1\lesson1\obj\Debug\lesson1.exe
+C:\progi\c#\lesson1\lesson1\obj\Debug\lesson1.pdb
