@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8e25cdff-2ae6-4e70-b72d-0e68cb3ddb4a": {
+      "ProjectGuid": "8e25cdff-2ae6-4e70-b72d-0e68cb3ddb4a",
+      "DisplayName": "HouseBuilding",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

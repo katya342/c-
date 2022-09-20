@@ -1,0 +1,8 @@
+C:\progi\c#\HouseBuilding\HouseBuilding\bin\Debug\HouseBuilding.exe.config
+C:\progi\c#\HouseBuilding\HouseBuilding\bin\Debug\HouseBuilding.exe
+C:\progi\c#\HouseBuilding\HouseBuilding\bin\Debug\HouseBuilding.pdb
+C:\progi\c#\HouseBuilding\HouseBuilding\obj\Debug\HouseBuilding.csproj.AssemblyReference.cache
+C:\progi\c#\HouseBuilding\HouseBuilding\obj\Debug\HouseBuilding.csproj.SuggestedBindingRedirects.cache
+C:\progi\c#\HouseBuilding\HouseBuilding\obj\Debug\HouseBuilding.csproj.CoreCompileInputs.cache
+C:\progi\c#\HouseBuilding\HouseBuilding\obj\Debug\HouseBuilding.exe
+C:\progi\c#\HouseBuilding\HouseBuilding\obj\Debug\HouseBuilding.pdb
