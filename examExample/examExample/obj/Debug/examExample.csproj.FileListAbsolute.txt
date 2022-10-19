@@ -1,0 +1,8 @@
+C:\progi\c#\examExample\examExample\bin\Debug\examExample.exe.config
+C:\progi\c#\examExample\examExample\bin\Debug\examExample.exe
+C:\progi\c#\examExample\examExample\bin\Debug\examExample.pdb
+C:\progi\c#\examExample\examExample\obj\Debug\examExample.csproj.AssemblyReference.cache
+C:\progi\c#\examExample\examExample\obj\Debug\examExample.csproj.SuggestedBindingRedirects.cache
+C:\progi\c#\examExample\examExample\obj\Debug\examExample.csproj.CoreCompileInputs.cache
+C:\progi\c#\examExample\examExample\obj\Debug\examExample.exe
+C:\progi\c#\examExample\examExample\obj\Debug\examExample.pdb
