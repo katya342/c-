@@ -1,0 +1,8 @@
+C:\progi\c#\filleSystem\filleSystem\bin\Debug\filleSystem.exe.config
+C:\progi\c#\filleSystem\filleSystem\bin\Debug\filleSystem.exe
+C:\progi\c#\filleSystem\filleSystem\bin\Debug\filleSystem.pdb
+C:\progi\c#\filleSystem\filleSystem\obj\Debug\filleSystem.csproj.AssemblyReference.cache
+C:\progi\c#\filleSystem\filleSystem\obj\Debug\filleSystem.csproj.SuggestedBindingRedirects.cache
+C:\progi\c#\filleSystem\filleSystem\obj\Debug\filleSystem.csproj.CoreCompileInputs.cache
+C:\progi\c#\filleSystem\filleSystem\obj\Debug\filleSystem.exe
+C:\progi\c#\filleSystem\filleSystem\obj\Debug\filleSystem.pdb
