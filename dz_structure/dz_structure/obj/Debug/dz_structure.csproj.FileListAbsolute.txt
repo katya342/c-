@@ -1,0 +1,8 @@
+C:\progi\c#\dz_structure\dz_structure\bin\Debug\dz_structure.exe.config
+C:\progi\c#\dz_structure\dz_structure\bin\Debug\dz_structure.exe
+C:\progi\c#\dz_structure\dz_structure\bin\Debug\dz_structure.pdb
+C:\progi\c#\dz_structure\dz_structure\obj\Debug\dz_structure.csproj.AssemblyReference.cache
+C:\progi\c#\dz_structure\dz_structure\obj\Debug\dz_structure.csproj.SuggestedBindingRedirects.cache
+C:\progi\c#\dz_structure\dz_structure\obj\Debug\dz_structure.csproj.CoreCompileInputs.cache
+C:\progi\c#\dz_structure\dz_structure\obj\Debug\dz_structure.exe
+C:\progi\c#\dz_structure\dz_structure\obj\Debug\dz_structure.pdb
