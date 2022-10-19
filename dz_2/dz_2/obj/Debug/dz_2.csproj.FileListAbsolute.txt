@@ -1,0 +1,16 @@
+C:\c#\dz_2\dz_2\bin\Debug\dz_2.exe.config
+C:\c#\dz_2\dz_2\bin\Debug\dz_2.exe
+C:\c#\dz_2\dz_2\bin\Debug\dz_2.pdb
+C:\c#\dz_2\dz_2\obj\Debug\dz_2.csproj.AssemblyReference.cache
+C:\c#\dz_2\dz_2\obj\Debug\dz_2.csproj.SuggestedBindingRedirects.cache
+C:\c#\dz_2\dz_2\obj\Debug\dz_2.csproj.CoreCompileInputs.cache
+C:\c#\dz_2\dz_2\obj\Debug\dz_2.exe
+C:\c#\dz_2\dz_2\obj\Debug\dz_2.pdb
+C:\progi\c#\dz_2\dz_2\bin\Debug\dz_2.exe.config
+C:\progi\c#\dz_2\dz_2\bin\Debug\dz_2.exe
+C:\progi\c#\dz_2\dz_2\bin\Debug\dz_2.pdb
+C:\progi\c#\dz_2\dz_2\obj\Debug\dz_2.csproj.AssemblyReference.cache
+C:\progi\c#\dz_2\dz_2\obj\Debug\dz_2.csproj.SuggestedBindingRedirects.cache
+C:\progi\c#\dz_2\dz_2\obj\Debug\dz_2.csproj.CoreCompileInputs.cache
+C:\progi\c#\dz_2\dz_2\obj\Debug\dz_2.exe
+C:\progi\c#\dz_2\dz_2\obj\Debug\dz_2.pdb
