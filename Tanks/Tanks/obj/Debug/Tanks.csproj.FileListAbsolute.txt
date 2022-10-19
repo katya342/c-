@@ -1,0 +1,8 @@
+C:\progi\c#\Tanks\Tanks\bin\Debug\Tanks.exe.config
+C:\progi\c#\Tanks\Tanks\bin\Debug\Tanks.exe
+C:\progi\c#\Tanks\Tanks\bin\Debug\Tanks.pdb
+C:\progi\c#\Tanks\Tanks\obj\Debug\Tanks.csproj.AssemblyReference.cache
+C:\progi\c#\Tanks\Tanks\obj\Debug\Tanks.csproj.SuggestedBindingRedirects.cache
+C:\progi\c#\Tanks\Tanks\obj\Debug\Tanks.csproj.CoreCompileInputs.cache
+C:\progi\c#\Tanks\Tanks\obj\Debug\Tanks.exe
+C:\progi\c#\Tanks\Tanks\obj\Debug\Tanks.pdb
