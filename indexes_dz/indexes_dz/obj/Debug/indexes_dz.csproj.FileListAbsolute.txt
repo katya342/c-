@@ -1,0 +1,8 @@
+C:\progi\c#\indexes_dz\indexes_dz\bin\Debug\indexes_dz.exe.config
+C:\progi\c#\indexes_dz\indexes_dz\bin\Debug\indexes_dz.exe
+C:\progi\c#\indexes_dz\indexes_dz\bin\Debug\indexes_dz.pdb
+C:\progi\c#\indexes_dz\indexes_dz\obj\Debug\indexes_dz.csproj.AssemblyReference.cache
+C:\progi\c#\indexes_dz\indexes_dz\obj\Debug\indexes_dz.csproj.SuggestedBindingRedirects.cache
+C:\progi\c#\indexes_dz\indexes_dz\obj\Debug\indexes_dz.csproj.CoreCompileInputs.cache
+C:\progi\c#\indexes_dz\indexes_dz\obj\Debug\indexes_dz.exe
+C:\progi\c#\indexes_dz\indexes_dz\obj\Debug\indexes_dz.pdb
