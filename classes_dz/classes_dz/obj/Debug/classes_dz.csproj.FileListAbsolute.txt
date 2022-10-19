@@ -1,0 +1,8 @@
+C:\c#\classes_dz\classes_dz\bin\Debug\classes_dz.exe.config
+C:\c#\classes_dz\classes_dz\bin\Debug\classes_dz.exe
+C:\c#\classes_dz\classes_dz\bin\Debug\classes_dz.pdb
+C:\c#\classes_dz\classes_dz\obj\Debug\classes_dz.csproj.AssemblyReference.cache
+C:\c#\classes_dz\classes_dz\obj\Debug\classes_dz.csproj.SuggestedBindingRedirects.cache
+C:\c#\classes_dz\classes_dz\obj\Debug\classes_dz.csproj.CoreCompileInputs.cache
+C:\c#\classes_dz\classes_dz\obj\Debug\classes_dz.exe
+C:\c#\classes_dz\classes_dz\obj\Debug\classes_dz.pdb
