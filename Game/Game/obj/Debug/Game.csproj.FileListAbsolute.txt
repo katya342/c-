@@ -1,0 +1,8 @@
+C:\progi\c#\Game\Game\bin\Debug\Game.exe.config
+C:\progi\c#\Game\Game\bin\Debug\Game.exe
+C:\progi\c#\Game\Game\bin\Debug\Game.pdb
+C:\progi\c#\Game\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+C:\progi\c#\Game\Game\obj\Debug\Game.csproj.SuggestedBindingRedirects.cache
+C:\progi\c#\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\progi\c#\Game\Game\obj\Debug\Game.exe
+C:\progi\c#\Game\Game\obj\Debug\Game.pdb

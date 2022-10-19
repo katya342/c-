@@ -1,0 +1,12 @@
+C:\progi\c#\delegates\delegates\bin\Debug\delegates.exe.config
+C:\progi\c#\delegates\delegates\bin\Debug\delegates.exe
+C:\progi\c#\delegates\delegates\bin\Debug\delegates.pdb
+C:\progi\c#\delegates\delegates\obj\Debug\delegates.csproj.AssemblyReference.cache
+C:\progi\c#\delegates\delegates\obj\Debug\delegates.csproj.SuggestedBindingRedirects.cache
+C:\progi\c#\delegates\delegates\obj\Debug\delegates.csproj.CoreCompileInputs.cache
+C:\progi\c#\delegates\delegates\obj\Debug\delegates.exe
+C:\progi\c#\delegates\delegates\obj\Debug\delegates.pdb
+C:\progi\c#\delegates\delegates\bin\Debug\ConsoleApp1.exe
+C:\progi\c#\delegates\delegates\bin\Debug\ConsoleApp1.pdb
+C:\progi\c#\delegates\delegates\bin\Debug\ConsoleApp1.exe.config
+C:\progi\c#\delegates\delegates\obj\Debug\delegates.csproj.CopyComplete
