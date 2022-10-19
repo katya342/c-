@@ -1,0 +1,12 @@
+C:\c#\ShopKzTova\ShopKzTova\obj\Debug\ShopKzTova.csproj.AssemblyReference.cache
+C:\c#\ShopKzTova\ShopKzTova\obj\Debug\ShopKzTova.csproj.SuggestedBindingRedirects.cache
+C:\c#\ShopKzTova\ShopKzTova\obj\Debug\ShopKzTova.csproj.CoreCompileInputs.cache
+C:\c#\ShopKzTova\ShopKzTova\bin\Debug\ShopKzTova.exe.config
+C:\c#\ShopKzTova\ShopKzTova\bin\Debug\ShopKzTova.exe
+C:\c#\ShopKzTova\ShopKzTova\bin\Debug\ShopKzTova.pdb
+C:\c#\ShopKzTova\ShopKzTova\obj\Debug\ShopKzTova.exe
+C:\c#\ShopKzTova\ShopKzTova\obj\Debug\ShopKzTova.pdb
+C:\c#\ShopKzTova\ShopKzTova\bin\Debug\ShopALL.exe
+C:\c#\ShopKzTova\ShopKzTova\bin\Debug\ShopALL.pdb
+C:\c#\ShopKzTova\ShopKzTova\bin\Debug\ShopALL.exe.config
+C:\c#\ShopKzTova\ShopKzTova\obj\Debug\ShopKzTova.csproj.CopyComplete

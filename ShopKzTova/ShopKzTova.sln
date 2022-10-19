@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopKzTova", "ShopKzTova\ShopKzTova.csproj", "{6DA9AC1B-A5CF-420B-9770-17E467DED701}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopALL", "ShopALL\ShopALL.csproj", "{041FC074-8015-4A31-9DFD-EBAD549685BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DA9AC1B-A5CF-420B-9770-17E467DED701}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DA9AC1B-A5CF-420B-9770-17E467DED701}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DA9AC1B-A5CF-420B-9770-17E467DED701}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DA9AC1B-A5CF-420B-9770-17E467DED701}.Release|Any CPU.Build.0 = Release|Any CPU
+		{041FC074-8015-4A31-9DFD-EBAD549685BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{041FC074-8015-4A31-9DFD-EBAD549685BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{041FC074-8015-4A31-9DFD-EBAD549685BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{041FC074-8015-4A31-9DFD-EBAD549685BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3F8AAC3-6845-4143-8BC5-C1079FEC8BEB}
+	EndGlobalSection
+EndGlobal

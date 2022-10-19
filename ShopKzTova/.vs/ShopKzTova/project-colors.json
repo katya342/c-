@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6da9ac1b-a5cf-420b-9770-17e467ded701": {
+      "ProjectGuid": "6da9ac1b-a5cf-420b-9770-17e467ded701",
+      "DisplayName": "ShopKzTova",
+      "ColorIndex": 0
+    },
+    "041fc074-8015-4a31-9dfd-ebad549685be": {
+      "ProjectGuid": "041fc074-8015-4a31-9dfd-ebad549685be",
+      "DisplayName": "ShopALL",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,7 @@
+C:\c#\ShopKzTova\ShopALL\bin\Debug\ShopALL.exe.config
+C:\c#\ShopKzTova\ShopALL\bin\Debug\ShopALL.exe
+C:\c#\ShopKzTova\ShopALL\bin\Debug\ShopALL.pdb
+C:\c#\ShopKzTova\ShopALL\obj\Debug\ShopALL.csproj.SuggestedBindingRedirects.cache
+C:\c#\ShopKzTova\ShopALL\obj\Debug\ShopALL.csproj.CoreCompileInputs.cache
+C:\c#\ShopKzTova\ShopALL\obj\Debug\ShopALL.exe
+C:\c#\ShopKzTova\ShopALL\obj\Debug\ShopALL.pdb
