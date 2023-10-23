@@ -1,0 +1,12 @@
+C:\project\Server\HttpContextReader\bin\Debug\net6.0\HttpContextReader.deps.json
+C:\project\Server\HttpContextReader\bin\Debug\net6.0\HttpContextReader.dll
+C:\project\Server\HttpContextReader\bin\Debug\net6.0\HttpContextReader.pdb
+C:\project\Server\HttpContextReader\obj\Debug\net6.0\HttpContextReader.csproj.AssemblyReference.cache
+C:\project\Server\HttpContextReader\obj\Debug\net6.0\HttpContextReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\project\Server\HttpContextReader\obj\Debug\net6.0\HttpContextReader.AssemblyInfoInputs.cache
+C:\project\Server\HttpContextReader\obj\Debug\net6.0\HttpContextReader.AssemblyInfo.cs
+C:\project\Server\HttpContextReader\obj\Debug\net6.0\HttpContextReader.csproj.CoreCompileInputs.cache
+C:\project\Server\HttpContextReader\obj\Debug\net6.0\HttpContextReader.dll
+C:\project\Server\HttpContextReader\obj\Debug\net6.0\refint\HttpContextReader.dll
+C:\project\Server\HttpContextReader\obj\Debug\net6.0\HttpContextReader.pdb
+C:\project\Server\HttpContextReader\obj\Debug\net6.0\ref\HttpContextReader.dll

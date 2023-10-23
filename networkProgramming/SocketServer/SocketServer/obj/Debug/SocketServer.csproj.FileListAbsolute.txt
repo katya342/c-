@@ -1,0 +1,8 @@
+C:\Users\itstart\source\repos\SocketServer\SocketServer\bin\Debug\SocketServer.exe.config
+C:\Users\itstart\source\repos\SocketServer\SocketServer\bin\Debug\SocketServer.exe
+C:\Users\itstart\source\repos\SocketServer\SocketServer\bin\Debug\SocketServer.pdb
+C:\Users\itstart\source\repos\SocketServer\SocketServer\obj\Debug\SocketServer.csproj.AssemblyReference.cache
+C:\Users\itstart\source\repos\SocketServer\SocketServer\obj\Debug\SocketServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\itstart\source\repos\SocketServer\SocketServer\obj\Debug\SocketServer.csproj.CoreCompileInputs.cache
+C:\Users\itstart\source\repos\SocketServer\SocketServer\obj\Debug\SocketServer.exe
+C:\Users\itstart\source\repos\SocketServer\SocketServer\obj\Debug\SocketServer.pdb

@@ -1,0 +1,21 @@
+﻿<Window x:Class="Client.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Client"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="Кто красивей ? " HorizontalAlignment="Left" Margin="362,75,0,0" VerticalAlignment="Top" RenderTransformOrigin="3.577,0.925"/>
+        <Image HorizontalAlignment="Left" Height="100" Margin="197,155,0,0" VerticalAlignment="Top" Width="100" x:Name="img1"/>
+        <Image HorizontalAlignment="Left" Height="100" Margin="586,199,0,0" VerticalAlignment="Top" Width="100" x:Name="img2"/>
+        <RadioButton Content="красивей" HorizontalAlignment="Left" Margin="197,272,0,0" VerticalAlignment="Top"/>
+        <RadioButton Content="красивей" HorizontalAlignment="Left" Margin="527,275,0,0" VerticalAlignment="Top"/>
+        <Button Content="Оценить" HorizontalAlignment="Left" Margin="362,330,0,0" VerticalAlignment="Top" Width="81" Click="Button_Click"/>
+
+
+
+
+    </Grid>
+</Window>

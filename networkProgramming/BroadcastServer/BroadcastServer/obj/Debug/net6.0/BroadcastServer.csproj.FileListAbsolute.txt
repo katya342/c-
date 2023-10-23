@@ -1,0 +1,15 @@
+C:\project\BroadcastServer\BroadcastServer\bin\Debug\net6.0\BroadcastServer.exe
+C:\project\BroadcastServer\BroadcastServer\bin\Debug\net6.0\BroadcastServer.deps.json
+C:\project\BroadcastServer\BroadcastServer\bin\Debug\net6.0\BroadcastServer.runtimeconfig.json
+C:\project\BroadcastServer\BroadcastServer\bin\Debug\net6.0\BroadcastServer.dll
+C:\project\BroadcastServer\BroadcastServer\bin\Debug\net6.0\BroadcastServer.pdb
+C:\project\BroadcastServer\BroadcastServer\obj\Debug\net6.0\BroadcastServer.csproj.AssemblyReference.cache
+C:\project\BroadcastServer\BroadcastServer\obj\Debug\net6.0\BroadcastServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\project\BroadcastServer\BroadcastServer\obj\Debug\net6.0\BroadcastServer.AssemblyInfoInputs.cache
+C:\project\BroadcastServer\BroadcastServer\obj\Debug\net6.0\BroadcastServer.AssemblyInfo.cs
+C:\project\BroadcastServer\BroadcastServer\obj\Debug\net6.0\BroadcastServer.csproj.CoreCompileInputs.cache
+C:\project\BroadcastServer\BroadcastServer\obj\Debug\net6.0\BroadcastServer.dll
+C:\project\BroadcastServer\BroadcastServer\obj\Debug\net6.0\refint\BroadcastServer.dll
+C:\project\BroadcastServer\BroadcastServer\obj\Debug\net6.0\BroadcastServer.pdb
+C:\project\BroadcastServer\BroadcastServer\obj\Debug\net6.0\BroadcastServer.genruntimeconfig.cache
+C:\project\BroadcastServer\BroadcastServer\obj\Debug\net6.0\ref\BroadcastServer.dll

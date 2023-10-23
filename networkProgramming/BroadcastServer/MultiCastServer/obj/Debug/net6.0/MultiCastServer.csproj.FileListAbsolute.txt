@@ -1,0 +1,15 @@
+C:\project\BroadcastServer\MultiCastServer\bin\Debug\net6.0\MultiCastServer.exe
+C:\project\BroadcastServer\MultiCastServer\bin\Debug\net6.0\MultiCastServer.deps.json
+C:\project\BroadcastServer\MultiCastServer\bin\Debug\net6.0\MultiCastServer.runtimeconfig.json
+C:\project\BroadcastServer\MultiCastServer\bin\Debug\net6.0\MultiCastServer.dll
+C:\project\BroadcastServer\MultiCastServer\bin\Debug\net6.0\MultiCastServer.pdb
+C:\project\BroadcastServer\MultiCastServer\obj\Debug\net6.0\MultiCastServer.csproj.AssemblyReference.cache
+C:\project\BroadcastServer\MultiCastServer\obj\Debug\net6.0\MultiCastServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\project\BroadcastServer\MultiCastServer\obj\Debug\net6.0\MultiCastServer.AssemblyInfoInputs.cache
+C:\project\BroadcastServer\MultiCastServer\obj\Debug\net6.0\MultiCastServer.AssemblyInfo.cs
+C:\project\BroadcastServer\MultiCastServer\obj\Debug\net6.0\MultiCastServer.csproj.CoreCompileInputs.cache
+C:\project\BroadcastServer\MultiCastServer\obj\Debug\net6.0\MultiCastServer.dll
+C:\project\BroadcastServer\MultiCastServer\obj\Debug\net6.0\refint\MultiCastServer.dll
+C:\project\BroadcastServer\MultiCastServer\obj\Debug\net6.0\MultiCastServer.pdb
+C:\project\BroadcastServer\MultiCastServer\obj\Debug\net6.0\MultiCastServer.genruntimeconfig.cache
+C:\project\BroadcastServer\MultiCastServer\obj\Debug\net6.0\ref\MultiCastServer.dll

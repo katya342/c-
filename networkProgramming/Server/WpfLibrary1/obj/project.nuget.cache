@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AzGtues/F4GNH8Im41OhdlwXPOs4g48qD0pFaosV/5n1B9QWputWudUgkgCsJPTsk08fQg/KpRtUDHns/NKtZw==",
+  "success": true,
+  "projectFilePath": "C:\\project\\Server\\WpfLibrary1\\WpfLibrary1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\katya\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\project\Server\Lib\bin\Debug\net6.0-windows\Lib.deps.json
+C:\project\Server\Lib\bin\Debug\net6.0-windows\Lib.dll
+C:\project\Server\Lib\bin\Debug\net6.0-windows\Lib.pdb
+C:\project\Server\Lib\obj\Debug\net6.0-windows\Lib.csproj.AssemblyReference.cache
+C:\project\Server\Lib\obj\Debug\net6.0-windows\Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\project\Server\Lib\obj\Debug\net6.0-windows\Lib.AssemblyInfoInputs.cache
+C:\project\Server\Lib\obj\Debug\net6.0-windows\Lib.AssemblyInfo.cs
+C:\project\Server\Lib\obj\Debug\net6.0-windows\Lib.csproj.CoreCompileInputs.cache
+C:\project\Server\Lib\obj\Debug\net6.0-windows\Lib.dll
+C:\project\Server\Lib\obj\Debug\net6.0-windows\refint\Lib.dll
+C:\project\Server\Lib\obj\Debug\net6.0-windows\Lib.pdb
+C:\project\Server\Lib\obj\Debug\net6.0-windows\ref\Lib.dll

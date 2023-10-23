@@ -1,0 +1,15 @@
+C:\project\AppTcpClien\AppTcpListener\bin\Debug\net6.0\AppTcpListener.exe
+C:\project\AppTcpClien\AppTcpListener\bin\Debug\net6.0\AppTcpListener.deps.json
+C:\project\AppTcpClien\AppTcpListener\bin\Debug\net6.0\AppTcpListener.runtimeconfig.json
+C:\project\AppTcpClien\AppTcpListener\bin\Debug\net6.0\AppTcpListener.dll
+C:\project\AppTcpClien\AppTcpListener\bin\Debug\net6.0\AppTcpListener.pdb
+C:\project\AppTcpClien\AppTcpListener\obj\Debug\net6.0\AppTcpListener.csproj.AssemblyReference.cache
+C:\project\AppTcpClien\AppTcpListener\obj\Debug\net6.0\AppTcpListener.GeneratedMSBuildEditorConfig.editorconfig
+C:\project\AppTcpClien\AppTcpListener\obj\Debug\net6.0\AppTcpListener.AssemblyInfoInputs.cache
+C:\project\AppTcpClien\AppTcpListener\obj\Debug\net6.0\AppTcpListener.AssemblyInfo.cs
+C:\project\AppTcpClien\AppTcpListener\obj\Debug\net6.0\AppTcpListener.csproj.CoreCompileInputs.cache
+C:\project\AppTcpClien\AppTcpListener\obj\Debug\net6.0\AppTcpListener.dll
+C:\project\AppTcpClien\AppTcpListener\obj\Debug\net6.0\refint\AppTcpListener.dll
+C:\project\AppTcpClien\AppTcpListener\obj\Debug\net6.0\AppTcpListener.pdb
+C:\project\AppTcpClien\AppTcpListener\obj\Debug\net6.0\AppTcpListener.genruntimeconfig.cache
+C:\project\AppTcpClien\AppTcpListener\obj\Debug\net6.0\ref\AppTcpListener.dll

@@ -1,0 +1,9 @@
+C:\project\Server\UserLib\obj\Debug\UserLib.csproj.AssemblyReference.cache
+C:\project\Server\UserLib\obj\Debug\UserLib.csproj.CoreCompileInputs.cache
+C:\project\Server\UserLib\bin\Debug\UserLib.dll
+C:\project\Server\UserLib\bin\Debug\UserLib.pdb
+C:\project\Server\UserLib\bin\Debug\Newtonsoft.Json.dll
+C:\project\Server\UserLib\bin\Debug\Newtonsoft.Json.xml
+C:\project\Server\UserLib\obj\Debug\UserLib.csproj.CopyComplete
+C:\project\Server\UserLib\obj\Debug\UserLib.dll
+C:\project\Server\UserLib\obj\Debug\UserLib.pdb

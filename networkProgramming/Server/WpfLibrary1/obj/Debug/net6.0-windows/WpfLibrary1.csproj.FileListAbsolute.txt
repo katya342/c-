@@ -1,0 +1,12 @@
+C:\project\Server\WpfLibrary1\bin\Debug\net6.0-windows\WpfLibrary1.deps.json
+C:\project\Server\WpfLibrary1\bin\Debug\net6.0-windows\WpfLibrary1.dll
+C:\project\Server\WpfLibrary1\bin\Debug\net6.0-windows\WpfLibrary1.pdb
+C:\project\Server\WpfLibrary1\obj\Debug\net6.0-windows\WpfLibrary1.csproj.AssemblyReference.cache
+C:\project\Server\WpfLibrary1\obj\Debug\net6.0-windows\WpfLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+C:\project\Server\WpfLibrary1\obj\Debug\net6.0-windows\WpfLibrary1.AssemblyInfoInputs.cache
+C:\project\Server\WpfLibrary1\obj\Debug\net6.0-windows\WpfLibrary1.AssemblyInfo.cs
+C:\project\Server\WpfLibrary1\obj\Debug\net6.0-windows\WpfLibrary1.csproj.CoreCompileInputs.cache
+C:\project\Server\WpfLibrary1\obj\Debug\net6.0-windows\WpfLibrary1.dll
+C:\project\Server\WpfLibrary1\obj\Debug\net6.0-windows\refint\WpfLibrary1.dll
+C:\project\Server\WpfLibrary1\obj\Debug\net6.0-windows\WpfLibrary1.pdb
+C:\project\Server\WpfLibrary1\obj\Debug\net6.0-windows\ref\WpfLibrary1.dll

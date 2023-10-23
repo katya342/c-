@@ -1,0 +1,15 @@
+C:\project\ConsoleAppUDPClient\UDPClientAPP\bin\Debug\net6.0\UDPClientAPP.exe
+C:\project\ConsoleAppUDPClient\UDPClientAPP\bin\Debug\net6.0\UDPClientAPP.deps.json
+C:\project\ConsoleAppUDPClient\UDPClientAPP\bin\Debug\net6.0\UDPClientAPP.runtimeconfig.json
+C:\project\ConsoleAppUDPClient\UDPClientAPP\bin\Debug\net6.0\UDPClientAPP.dll
+C:\project\ConsoleAppUDPClient\UDPClientAPP\bin\Debug\net6.0\UDPClientAPP.pdb
+C:\project\ConsoleAppUDPClient\UDPClientAPP\obj\Debug\net6.0\UDPClientAPP.csproj.AssemblyReference.cache
+C:\project\ConsoleAppUDPClient\UDPClientAPP\obj\Debug\net6.0\UDPClientAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\project\ConsoleAppUDPClient\UDPClientAPP\obj\Debug\net6.0\UDPClientAPP.AssemblyInfoInputs.cache
+C:\project\ConsoleAppUDPClient\UDPClientAPP\obj\Debug\net6.0\UDPClientAPP.AssemblyInfo.cs
+C:\project\ConsoleAppUDPClient\UDPClientAPP\obj\Debug\net6.0\UDPClientAPP.csproj.CoreCompileInputs.cache
+C:\project\ConsoleAppUDPClient\UDPClientAPP\obj\Debug\net6.0\UDPClientAPP.dll
+C:\project\ConsoleAppUDPClient\UDPClientAPP\obj\Debug\net6.0\refint\UDPClientAPP.dll
+C:\project\ConsoleAppUDPClient\UDPClientAPP\obj\Debug\net6.0\UDPClientAPP.pdb
+C:\project\ConsoleAppUDPClient\UDPClientAPP\obj\Debug\net6.0\UDPClientAPP.genruntimeconfig.cache
+C:\project\ConsoleAppUDPClient\UDPClientAPP\obj\Debug\net6.0\ref\UDPClientAPP.dll

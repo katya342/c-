@@ -1,0 +1,15 @@
+C:\project\BroadcastServer\MulticastClient\bin\Debug\net6.0\MulticastClient.exe
+C:\project\BroadcastServer\MulticastClient\bin\Debug\net6.0\MulticastClient.deps.json
+C:\project\BroadcastServer\MulticastClient\bin\Debug\net6.0\MulticastClient.runtimeconfig.json
+C:\project\BroadcastServer\MulticastClient\bin\Debug\net6.0\MulticastClient.dll
+C:\project\BroadcastServer\MulticastClient\bin\Debug\net6.0\MulticastClient.pdb
+C:\project\BroadcastServer\MulticastClient\obj\Debug\net6.0\MulticastClient.csproj.AssemblyReference.cache
+C:\project\BroadcastServer\MulticastClient\obj\Debug\net6.0\MulticastClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\project\BroadcastServer\MulticastClient\obj\Debug\net6.0\MulticastClient.AssemblyInfoInputs.cache
+C:\project\BroadcastServer\MulticastClient\obj\Debug\net6.0\MulticastClient.AssemblyInfo.cs
+C:\project\BroadcastServer\MulticastClient\obj\Debug\net6.0\MulticastClient.csproj.CoreCompileInputs.cache
+C:\project\BroadcastServer\MulticastClient\obj\Debug\net6.0\MulticastClient.dll
+C:\project\BroadcastServer\MulticastClient\obj\Debug\net6.0\refint\MulticastClient.dll
+C:\project\BroadcastServer\MulticastClient\obj\Debug\net6.0\MulticastClient.pdb
+C:\project\BroadcastServer\MulticastClient\obj\Debug\net6.0\MulticastClient.genruntimeconfig.cache
+C:\project\BroadcastServer\MulticastClient\obj\Debug\net6.0\ref\MulticastClient.dll

@@ -1,0 +1,16 @@
+C:\Users\itstart\source\repos\SocketServer\SocketClient_2\bin\Debug\SocketClient_2.exe.config
+C:\Users\itstart\source\repos\SocketServer\SocketClient_2\bin\Debug\SocketClient_2.exe
+C:\Users\itstart\source\repos\SocketServer\SocketClient_2\bin\Debug\SocketClient_2.pdb
+C:\Users\itstart\source\repos\SocketServer\SocketClient_2\obj\Debug\SocketClient_2.csproj.AssemblyReference.cache
+C:\Users\itstart\source\repos\SocketServer\SocketClient_2\obj\Debug\SocketClient_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\itstart\source\repos\SocketServer\SocketClient_2\obj\Debug\SocketClient_2.csproj.CoreCompileInputs.cache
+C:\Users\itstart\source\repos\SocketServer\SocketClient_2\obj\Debug\SocketClient_2.exe
+C:\Users\itstart\source\repos\SocketServer\SocketClient_2\obj\Debug\SocketClient_2.pdb
+C:\Users\katya\Downloads\SocketServer\SocketClient_2\bin\Debug\SocketClient_2.exe.config
+C:\Users\katya\Downloads\SocketServer\SocketClient_2\bin\Debug\SocketClient_2.exe
+C:\Users\katya\Downloads\SocketServer\SocketClient_2\bin\Debug\SocketClient_2.pdb
+C:\Users\katya\Downloads\SocketServer\SocketClient_2\obj\Debug\SocketClient_2.csproj.AssemblyReference.cache
+C:\Users\katya\Downloads\SocketServer\SocketClient_2\obj\Debug\SocketClient_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\katya\Downloads\SocketServer\SocketClient_2\obj\Debug\SocketClient_2.csproj.CoreCompileInputs.cache
+C:\Users\katya\Downloads\SocketServer\SocketClient_2\obj\Debug\SocketClient_2.exe
+C:\Users\katya\Downloads\SocketServer\SocketClient_2\obj\Debug\SocketClient_2.pdb
